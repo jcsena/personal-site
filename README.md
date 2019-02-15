@@ -47,7 +47,7 @@ This completes set up instructions. Please continue reading to learn how to modi
 4. Modify the files in `app/data/resume/` next. When you're finished, go back and modify all of the other files in the `app/data/` directory.
 5. You've finished modifying >95% of the pages. Search through the rest of the files for references to `Julio` or `Seña` and change values to your name.
 6. Change the description in `server/views/index.tpl.html`. You may also wish to add a new favicon or remove it. [This](https://realfavicongenerator.net/) website may be helpful.
-7. Decide how and where you are going to host this project. I recommend purchasing your own domain name from [Google Domains](https://domains.google). If you would like to host on github pages, run `npm run deploy`. This will generate a new branch called `gh-pages`. Then go to `https://github.com/[your github username]/personal-site/settings` and configure accordingly:
+7. Decide how and where you are going to host this project. I recommend purchasing your own domain name from [Google Domains](https://domains.google). If you would like to host on github pages, run `npm run deploy`. This will generate a new branch called `gh-pages`. Then go to `https://github.com/jcsena/personal-site/settings` and configure accordingly:
 
 ![github hosting instructions](docs/gh-pages.png)
 
@@ -65,8 +65,7 @@ That's it.
 Please feel free to reach out to me by filing an issue or at help@juliosena.com for help configuring your project.
 
 ### Contributors
-- [@juliosena](https://github.com/juliosena)
-- [@typpo](https://github.com/typpo)
+- [@juliosena](https://github.com/jcsena)
 
 ### Acknowlegements
 - Special thanks to [@typpo](https://github.com/typpo) for tirelessly answering all of my node.js and react questions.
