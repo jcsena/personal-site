@@ -7,12 +7,16 @@ export const categories = [
 		color: '#325D7F'
 	},
 	{
-		name: 'Databases',
-		color: '#3896e2'
+		name: 'Web Development',
+		color: '#A7226E'
 	},
 	{
 		name: 'Design',
 		color: '#747fff'
+	},
+	{
+		name: 'Databases',
+		color: '#37b1f5'
 	},
 	{
 		name: 'Frameworks',
@@ -31,20 +35,12 @@ export const categories = [
 		color: '#F4837D'
 	},
 	{
-		name: 'Other',
-		color: '#c3423f'
-	},
-	{
-		name: 'Python',
-		color: '#37b1f5'
-	},
-	{
 		name: 'Tools',
 		color: '#40494e'
 	},
 	{
-		name: 'Web Development',
-		color: '#A7226E'
+		name: 'Other',
+		color: '#c3423f'
 	}
 ];
 
@@ -140,6 +136,21 @@ export const skills = [
 		category: ['Web Development', 'Databases']
 	},
 	{
+		title: 'MariaDB',
+		compentency: 4,
+		category: ['Web Development', 'Databases']
+	},
+	{
+		title: 'Oracle',
+		compentency: 2,
+		category: ['Databases']
+	},
+	{
+		title: 'MySQL',
+		compentency: 4,
+		category: ['Web Development', 'Databases']
+	},
+	{
 		title: 'SQLite3',
 		compentency: 4,
 		category: ['Web Development', 'Databases']
@@ -169,7 +180,7 @@ export const skills = [
 	{
 		title: 'Tensorflow.js',
 		compentency: 2,
-		category: ['Data Science', 'Machine Learning', 'Python']
+		category: ['Data Science', 'Machine Learning']
 	},
 	{
 		title: 'HTML',

@@ -22,7 +22,7 @@ const positions = [
 		link: 'http://www.mibus.com.pa/',
 		daterange: 'March 2012 - March 2015',
 		points: [
-			'Development and maintenance ERP using Node.js and Angular.js',
+			'Development and maintenance ERP using Node.js and Angular.js ',
 			'Development of mobile applications for bus control using React Native',
 			'Development of a management information system (MEAN.io)'
 		]
