@@ -7,6 +7,10 @@ export const categories = [
 		color: '#325D7F'
 	},
 	{
+		name: 'Javascript',
+		color: '#EED639'
+	},
+	{
 		name: 'Web Development',
 		color: '#A7226E'
 	},
@@ -21,10 +25,6 @@ export const categories = [
 	{
 		name: 'Frameworks',
 		color: '#45ADA8'
-	},
-	{
-		name: 'Javascript',
-		color: '#EED639'
 	},
 	{
 		name: 'Languages',
