@@ -24,7 +24,7 @@ export const categories = [
 	},
 	{
 		name: 'Javascript',
-		color: '#EB4960'
+		color: '#EED639'
 	},
 	{
 		name: 'Languages',
@@ -48,22 +48,22 @@ export const skills = [
 	{
 		title: 'Javascript',
 		compentency: 5,
-		category: ['Web Development', 'Languages', 'Javascript']
+		category: ['Javascript', 'Web Development', 'Languages']
 	},
 	{
 		title: 'Node.JS',
-		compentency: 5,
-		category: ['Web Development', 'Frameworks', 'Javascript']
+		compentency: 4,
+		category: ['Javascript', 'Web Development', 'Frameworks']
 	},
 	{
 		title: 'Meteor.JS',
-		compentency: 5,
-		category: ['Web Development', 'Frameworks', 'Javascript']
+		compentency: 4,
+		category: ['Javascript', 'Web Development', 'Frameworks']
 	},
 	{
 		title: 'React',
 		compentency: 5,
-		category: ['Web Development', 'Frameworks', 'Javascript']
+		category: ['Javascript', 'Web Development', 'Frameworks']
 	},
 	{
 		title: 'React Native',
@@ -78,7 +78,7 @@ export const skills = [
 	{
 		title: 'Angular 1.x,  Angular.io',
 		compentency: 3,
-		category: ['Web Development', 'Frameworks', 'Javascript']
+		category: ['Javascript', 'Web Development', 'Frameworks']
 	},
 	{
 		title: 'Laravel',
@@ -158,12 +158,12 @@ export const skills = [
 	{
 		title: 'Express.JS',
 		compentency: 5,
-		category: ['Web Development', 'Frameworks', 'Javascript']
+		category: ['Javascript', 'Web Development', 'Frameworks']
 	},
 	{
 		title: 'Koa',
 		compentency: 3,
-		category: ['Web Development', 'Frameworks', 'Javascript']
+		category: ['Javascript', 'Web Development', 'Frameworks']
 	},
 
 	{
@@ -189,17 +189,7 @@ export const skills = [
 	},
 	{
 		title: 'CSS',
-		compentency: 5,
-		category: ['Web Development', 'Languages']
-	},
-	{
-		title: 'SASS/SCSS',
-		compentency: 5,
-		category: ['Web Development', 'Languages']
-	},
-	{
-		title: 'LESS',
-		compentency: 5,
+		compentency: 4,
 		category: ['Web Development', 'Languages']
 	},
 	{
@@ -220,6 +210,6 @@ export const skills = [
 	{
 		title: 'GraphQL',
 		compentency: 4,
-		category: ['Web Development', 'Databases', 'Mobile Development']
+		category: ['Web Development', 'Mobile Development']
 	}
 ];
