@@ -1,43 +1,48 @@
 // TODO Add a couple lines about each project
 const data = [
-	// {
-	//   title: 'Nearest Dollar',
-	//   subtitle: '2015 BVP Hackathon',
-	//   link: '/projects/nearestdollar/',
-	//   image: '/images/projects/nearestdollar.jpg',
-	//   date: '2015-11-20',
-	//   desc: 'Built for a social impact hackathon. '
-	//     + 'NearestDollar connected to your bank accounts, credit cards, '
-	//     + 'or debit cards and rounded up your purchases to donate the balance to '
-	//     + 'the charity of your choice.',
-	// }, {
-	//   title: 'Harvest',
-	//   subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-	//   link: 'https://devpost.com/software/harvest',
-	//   image: '/images/projects/harvest.jpg',
-	//   date: '2015-09-20',
-	//   desc: 'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-	//     + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-	//     + 'and nutrient deficiencies at an affordable price for the developing world.',
-	// }, {
-	//   title: 'Space Potato',
-	//   subtitle: 'A kickstarter funded potato powered weather balloon.',
-	//   link: 'http://www.spacepotato.org',
-	//   image: '/images/projects/spacepotato.jpg',
-	//   date: '2015-06-28',
-	//   desc: 'Launched a potato battery powered weather balloon with two cameras '
-	//     + 'and gps transponder. Resulting photos were published in a coffee table book. '
-	//     + 'You can email me for a copy.',
-	// }, {
-	//   title: 'Cat Detector',
-	//   subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-	//   link: '/project/catdetector/',
-	//   image: '/images/projects/catdetector.jpg',
-	//   date: '2015-05-15',
-	//   desc: 'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-	//    + 'Over 60,000 cats were classified before server bills made the project too expensive '
-	//    + 'to continue hosting.',
-	// },
+	{
+		title: 'Wisy',
+		subtitle: '2018 only development the App - Startup(1M Dollars)',
+		link: 'https://wisy.app/',
+		image: '/images/projects/wisy.jpg',
+		date: '2018-03-15',
+		desc:
+			'Tools: react-native; Built for a social impact with gamification. ' +
+			'DISCOVER communities, passions, and deals; COLLABORATE with stories, causes, ' +
+			'and information; WIN friends, experiences, and money on WISY.'
+	},
+	{
+		title: 'PayFacil',
+		subtitle: '2018 Design and development App - Wallet',
+		link: 'https://www.paguelofacil.com',
+		image: '/images/projects/payfacil.jpg',
+		date: '2018-01-20',
+		desc: 'Tools: Sketch, react-native; A payment gateway, with fully proprietary infrastructure, certified PCI and validated as an IPSP.'
+	},
+	{
+		title: 'MiEventos',
+		subtitle: '2018 Design and development App.',
+		link: 'https://www.mieventos.com',
+		image: '/images/projects/mieventos.jpg',
+		date: '2018-01-20',
+		desc: 'Tools: Sketch, react-native; Organize and promote any type of event. Concerts, Seminars, Conferences or your Birthday.'
+	},
+	{
+		title: 'CSS Digital',
+		subtitle: '2017 Design and development App.',
+		link: 'http://www.cssdigital.gob.pa/',
+		image: '/images/projects/css.jpg',
+		date: '2017-05-15',
+		desc: 'Tools: Sketch, react-native; CSS is a governmental public health project '
+	},
+	{
+		title: 'Panamá Emprende V2',
+		subtitle: '2017 Design and development WebApp.',
+		link: 'https://www.panamaemprende.gob.pa/',
+		image: '/images/projects/panamaemprende.jpg',
+		date: '2017-03-12',
+		desc: 'Tools: Sketch, CakePHP; Panamá Emprende is a government project for the management of opening of new companies'
+	}
 ];
 
 export default data;
