@@ -4,7 +4,7 @@ const data = [
 		title: 'Wisy',
 		subtitle: '2018 only development the App - Startup(1M Dollars)',
 		link: 'https://wisy.app/',
-		image: '/images/projects/wisy.jpg',
+		image: 'images/projects/wisy.jpg',
 		date: '2018-03-15',
 		desc:
 			'Tools: react-native; Built for a social impact with gamification. ' +
@@ -15,7 +15,7 @@ const data = [
 		title: 'PayFacil',
 		subtitle: '2018 Design and development App - Wallet',
 		link: 'https://www.paguelofacil.com',
-		image: '/images/projects/payfacil.jpg',
+		image: 'images/projects/payfacil.jpg',
 		date: '2018-01-20',
 		desc: 'Tools: Sketch, react-native; A payment gateway, with fully proprietary infrastructure, certified PCI and validated as an IPSP.'
 	},
@@ -23,7 +23,7 @@ const data = [
 		title: 'MiEventos',
 		subtitle: '2018 Design and development App.',
 		link: 'https://www.mieventos.com',
-		image: '/images/projects/mieventos.jpg',
+		image: 'images/projects/mieventos.jpg',
 		date: '2018-01-20',
 		desc: 'Tools: Sketch, react-native; Organize and promote any type of event. Concerts, Seminars, Conferences or your Birthday.'
 	},
@@ -31,7 +31,7 @@ const data = [
 		title: 'CSS Digital',
 		subtitle: '2017 Design and development App.',
 		link: 'http://www.cssdigital.gob.pa/',
-		image: '/images/projects/css.jpg',
+		image: 'images/projects/css.jpg',
 		date: '2017-05-15',
 		desc: 'Tools: Sketch, react-native; CSS is a governmental public health project '
 	},
@@ -39,7 +39,7 @@ const data = [
 		title: 'Panamá Emprende V2',
 		subtitle: '2017 Design and development WebApp.',
 		link: 'https://www.panamaemprende.gob.pa/',
-		image: '/images/projects/panamaemprende.jpg',
+		image: 'images/projects/panamaemprende.jpg',
 		date: '2017-03-12',
 		desc: 'Tools: Sketch, CakePHP; Panamá Emprende is a government project for the management of opening of new companies'
 	}
