@@ -96,6 +96,11 @@ export const skills = [
 		category: ['Web Development', 'Frameworks', 'PHP']
 	},
 	{
+		title: 'Flutter',
+		compentency: 5,
+		category: ['Mobile Development', 'Web Development']
+	},
+	{
 		title: 'Bootstrap',
 		compentency: 5,
 		category: ['Web Development', 'Frameworks']
@@ -114,6 +119,11 @@ export const skills = [
 		title: 'Heroku',
 		compentency: 4,
 		category: ['Web Development', 'Tools']
+	},
+	{
+		title: 'Firebase',
+		compentency: 4,
+		category: ['Mobile Development', 'Web Development', 'Tools']
 	},
 	{
 		title: 'Marvel / Invision',

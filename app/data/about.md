@@ -1,7 +1,7 @@
 
 #### Intro
 
-I am software engineer dedicated to web and mobile development. Actually, I am working at  [Wisy Inc](https://wisy.app) where I work on the mobile app. My primary job functions are as a build and maintain the mobile app and software engineering.
+I am software engineer dedicated to web and mobile development. Actually, I am working in my own project where I work on the mobile app. My primary job functions are as a build and maintain the mobile app and software engineering.
 
 <br>
 
@@ -10,7 +10,7 @@ I am available to consult on interesting projects. I am particularly interested 
 <br><br>
 
 #### Currently
-At Wisy I have learned how to build and maintain large mobile applications (see [Wisy Inc](https://wisy.app)).
+In my own project I have learned how to build and maintain large mobile applications.
 
 <br><br>
 

@@ -3,8 +3,11 @@ const positions = [
 		company: 'Wisy Inc',
 		position: 'Software Engineer',
 		link: 'https://wisy.app',
-		daterange: 'April 2018 - Present',
-		points: ['Created a new app product for retails companies.', 'Build and maintain the mobile app using React Native and augmented reality']
+		daterange: 'April 2018 - September 2019',
+		points: [
+			'Created a new app product for retails companies.',
+			'Build and maintain the mobile app using React Native and augmented reality'
+		]
 	},
 	{
 		company: '3Tech',
